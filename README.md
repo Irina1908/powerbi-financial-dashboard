@@ -32,7 +32,7 @@ Financial Sample (Microsoft, открытые данные). 700+ строк.
 Power BI Desktop, DAX (SUM), визуальные настройки.
 
 ## Файлы
-- `Financial_Dashboard_Ирина.pbix` — файл Power BI
-- `image1.png` — выручка по сегментам
-- `image2.png` — прибыль по продуктам
-- `image3.png` — себестоимость по странам
+- **[Financial_Dashboard_Ирина.pbix](./Financial_Dashboard_Ирина.pbix)** — файл Power BI (скачать)
+- **[image1.png](./image1.png)** — выручка по сегментам
+- **[image2.png](./image2.png)** — прибыль по продуктам
+- **[image3.png](./image3.png)** — себестоимость по странам
